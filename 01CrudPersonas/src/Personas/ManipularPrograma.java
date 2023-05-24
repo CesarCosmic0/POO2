@@ -53,7 +53,7 @@ public class ManipularPrograma {
                     String nombrepersona = entrada.nextLine();
                     System.out.println("Ingrese el apellido paterno de la persona");
                     String appatpersona = entrada.nextLine();
-                    System.out.println("Ingrese el apellido paterno de la persona");
+                    System.out.println("Ingrese el apellido materno de la persona");
                     String apmatpersona = entrada.nextLine();
                     System.out.println("Ingrese la edad de la persona");
                     int edadpersona = Integer.parseInt(entrada.nextLine());
